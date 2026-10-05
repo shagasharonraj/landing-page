@@ -1,12 +1,15 @@
 # Responsive Landing Page
 
-## 📌 Project Description
+##  Project Description
 
 This project is a **responsive landing page** created using HTML and CSS. The page includes a navigation bar, hero section, call-to-action button, and interactive hover effects.
 
 The landing page is designed to provide a clean and attractive user experience across **desktop, tablet, and mobile devices**.
 
-## 🚀 Features
+## Github repo link
+https://github.com/shagasharonraj/landing-page.git
+
+##  Features
 
 * Responsive navigation bar
 * Attractive hero/banner section
@@ -17,13 +20,13 @@ The landing page is designed to provide a clean and attractive user experience a
 * Clean and simple user interface
 * Works on desktop, tablet, and mobile screens
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **HTML5** – Structure of the landing page
 * **CSS3** – Styling, layout, animations, and responsiveness
 * **Flexbox/Grid** – Responsive page layout
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 landing-page/
@@ -32,14 +35,14 @@ landing-page/
 └── style.css
 ```
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Download or clone the project.
 2. Keep the `index.html` and `style.css` files in the same folder.
 3. Open the `index.html` file in any web browser.
 4. The landing page will open directly in the browser.
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The landing page is designed to adapt to different screen sizes:
 
@@ -49,7 +52,7 @@ The landing page is designed to adapt to different screen sizes:
 
 CSS media queries and responsive layout techniques are used to ensure that the page looks good on different devices.
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of this project is to design a **modern, responsive, and user-friendly landing page** using HTML and CSS. The project demonstrates the use of responsive layouts, Flexbox/Grid, hover effects, and CSS transitions.
 
