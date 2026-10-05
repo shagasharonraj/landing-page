@@ -1,4 +1,3 @@
-
 // Select the menu button and navigation links
 const menuBtn = document.getElementById("menuBtn");
 const navLinks = document.getElementById("navLinks");
